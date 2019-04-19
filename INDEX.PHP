@@ -1,1 +1,3 @@
-hncjnvav
+<?php
+phpinfo();
+?>
